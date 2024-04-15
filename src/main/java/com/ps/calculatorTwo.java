@@ -7,10 +7,10 @@ public class calculatorTwo {
        Scanner scanner = new Scanner(System.in);
 
        System.out.print("Enter your deposit amount: ");
-       double deposit = scanner.nextInt();
+       double deposit = scanner.nextDouble();
 
        System.out.println("Enter your interest rate: ");
-       double interestRate = scanner.nextFloat();
+       double interestRate = scanner.nextDouble();
 
        System.out.println("Enter term years for account: ");
        int years = scanner.nextInt();
