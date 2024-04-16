@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4faeeb63-7520-43eb-bdb2-ae7685aa8611" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ps/calculatorTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ps/calculatorTwo.java" afterDir="false" />
-    </list>
+    <list default="true" id="4faeeb63-7520-43eb-bdb2-ae7685aa8611" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,8 @@
     "Application.calculatorTwo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/yianna/LearnToCode/workshops/WorkshopOne_FinancialCalculators"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
